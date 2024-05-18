@@ -1,4 +1,5 @@
 // userInfo.js
+// Task 3
 
 function createUserProfiles(names, modifiedNames) {
     const userProfiles = [];
